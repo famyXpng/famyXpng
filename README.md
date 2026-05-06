@@ -4,38 +4,40 @@
 
 <br>
 
-# 你好, famy ako 👋 (こんにちは!)
+# 你好，我是 Famy 👋
 
-一个来自中国的 **cyber 鸽子** 🕊️ | somewhere between `console.log()` and `print()`... 
+一个来自中国的 **代码缝合手** / **鸽子王**。
+somewhere between `console.log()` and `print()`... 
 
 ```text
 > status: 在写了在写了 (进度: 0%)
-> 開発中... (mga gawa gawa lang muna)
+> location: China
 > vibes: coding at 3am because why not
 ```
 
-hey, famy ako. i write code sometimes, 在写了在写了... Marunong mag-code nang konti, mostly with **javascript** and **python**. 
-everything else i just throw at the wall until it compiles (全靠 google). 
-c#, typescript, lua, react, node, whatever. idc as long as it works.
+hey. i'm famy. i write code sometimes. 
+i mostly work with **javascript** and **python** — those are the ones i actually know.
+everything else i just throw at the wall until it compiles. c#, typescript, lua, react, node, whatever.
+if it has documentation i can probably figure it out eventually.
 
 <br>
 
-### 🛠️ 乱七八糟的 tools (mga kagamitan)
+### 🛠️ 乱七八糟的工具箱 / my stack
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,python,ts,cs,react,nodejs,lua,rust,git,docker,linux,vscode&perline=6" />
 </a>
 
 <br>
 
-### 🚀 最近挖的 pits (mga projects)
+### 🚀 最近在挖的坑 / recent mess
 <!-- START_SECTION:projects -->
 i'm probably in between projects or keeping everything private right now. 
-Sige na, next time na lang i guess. (じゃあね!)
+check back later i guess.
 <!-- END_SECTION:projects -->
 
 <br>
 
-### 📈 random stats (一些数据)
+### 📈 一些数据 / stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=famyXpng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=famyXpng&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" height="150" />
@@ -49,7 +51,6 @@ Sige na, next time na lang i guess. (じゃあね!)
 > reach me: 
 dm me on discord or whatever. 
 or don't. i'm probably busy starting another project i won't finish.
-Ingat lagi! じゃあね。
 ```
 
 <div align="center">
