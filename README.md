@@ -32,7 +32,7 @@ c#, typescript, lua, react, node, whatever. idc as long as it works.
 ### 🚀 最近在挖的坑 / 最近のプロジェクト / Mga Proyekto
 <!-- START_SECTION:projects -->
 i'm probably in between projects or keeping everything private right now. 
-check back later i guess. Sige na, next time na lang.
+check back later i guess.
 <!-- END_SECTION:projects -->
 
 <br>
