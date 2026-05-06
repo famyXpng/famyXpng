@@ -3,13 +3,9 @@ import requests
 import re
 
 def fetch_repos(username):
-    url = f"https://api.github.com/users/{username}/repos?sort=updated&direction=desc&per_page=100"
-    token = os.environ.get("GITHUB_TOKEN")
-    headers = {"User-Agent": "Mozilla/5.0"}
-    if token:
-        headers["Authorization"] = f"token {token}"
+    url = f"https://api.github.com/users/{username}/repos?sort=updated&direction=desc"
     try:
-        response = requests.get(url, headers=headers)
+        response = requests.get(url)
         response.raise_for_status()
         return response.json()
     except Exception as e:
