@@ -36,20 +36,26 @@ i like making things that run by themselves so i can go do something else.
 
 ### 🚀 what i'm messing with
 <!-- START_SECTION:projects -->
-i'm probably in between projects or keeping everything private right now. 
-check back later i guess.
+- **[NTE-Autofisher](https://github.com/famyXpng/NTE-Autofisher)** — no description provided (probably just a mess of code) `[various]`
 <!-- END_SECTION:projects -->
+
+<br>
+
+### 📊 stats i guess
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=famyXpng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_private=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=famyXpng&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" height="150" />
+</div>
 
 <br>
 
 ---
 
 ```text
-reach me: famy.xxx (discord)
+reach me: famyxxx@gmail.com
 or don't. i'm probably busy starting another project i won't finish.
 ```
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=famyXpng&label=profile%20hits&color=30363d&style=flat-square&labelColor=0d1117" />
 </div>
-
