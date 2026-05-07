@@ -45,14 +45,7 @@ i like making things that run by themselves so i can go do something else.
 
 #### stuff i've worked on or am working on
 
-| project | what it is | lang |
-|---------|-----------|------|
-| **NTE-Autofisher** | auto-fishing macro for roblox w/ cv detection, auto bait buying, the whole thing | Python |
-| **Doka** | monitoring suite — a pc watcher daemon + mobile app (expo) for tracking roblox instances | JS / React Native |
-| **qxin** | autonomous discord selfbot with multi-agent AI architecture. way overengineered | Rust |
-| **misc bots** | discord rpc stuff, automation scripts, whatever else i felt like building that week | various |
-
-> half of these are private or living on a different machine somewhere. i'll push them eventually. probably.
+> none currently. check back later, or i just prefer keeping them private.
 
 <br>
 
