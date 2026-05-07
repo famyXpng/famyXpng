@@ -50,14 +50,14 @@ i like making things that run by themselves so i can go do something else.
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=famyXpng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_private=false" height="160" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=famyXpng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff&count_private=false" height="160" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=famyXpng&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" height="160" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=famyXpng&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=famyXpng&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" /> -->
 </div>
 
 <br>
